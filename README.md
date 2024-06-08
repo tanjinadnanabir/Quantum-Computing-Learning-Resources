@@ -68,6 +68,7 @@ QuTech Academy
 5. The School of Quantum (https://www.qutube.nl/)
 
 MIT Open Learning Library (https://openlearning.mit.edu/courses-programs/open-learning-library)
+MIT OpenCourseWare: Free access to lecture notes and exams from MIT's quantum mechanics and quantum computing courses.
 
 1. 8.370.1x Quantum Information Science I, Part 1
 2. 8.370.2x Quantum Information Science I, Part 2
@@ -83,6 +84,8 @@ Quantum Mechanics
 1. Introduction to Quantum Mechanics by David J. Griffiths
 2. The Feynman Lectures on Physics Quantum Mechanics by Richard P. Feynman
 3. Modern Quantum Mechanics by J. J. Sakurai
+4. Quantum Mechanics: The Theoretical Minimum by Leonard Susskind
+5. Principles of Quantum Mechanics by R. Shankar
 
 Quantum Computing
 
