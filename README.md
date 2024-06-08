@@ -23,9 +23,8 @@ IBM Quantum Challenges
 5. IBM Quantum Challenge Spring 2021 : Five quantum programming exercises, each representing a milestone from quantum computing history from 1980 until today (https://github.com/qiskit-community/ibm-quantum-challenge-2021)
 6. IBM Quantum Challenge Spring 2022 : focuses on Professor Feynman's vision, simulating chemistry and many-body systems  (https://github.com/qiskit-community/ibm-quantum-spring-challenge-2022)
 7. IBM Quantum Challenge Spring 2023 : Introduction to Dynamic Circuits (https://github.com/qiskit-community/ibm-quantum-challenge-spring-2023)
-8. IBM Quantum Challenge Africa 2021 : Quantum Computing challenge that focuses on the fields of optimization, finance, and chemistry 
-9. ICPC Quantum Challenge powered by IBM Quantum (https://github.com/qiskit-community/ibm-quantum-challenge-africa-2021)
-(https://github.com/qiskit-community/ICPC-Quantum-Challenge-2021)
+8. IBM Quantum Challenge Africa 2021 : Quantum Computing challenge that focuses on the fields of optimization, finance, and chemistry (https://github.com/qiskit-community/ibm-quantum-challenge-africa-2021)
+9. ICPC Quantum Challenge powered by IBM Quantum (https://github.com/qiskit-community/ICPC-Quantum-Challenge-2021)
 
 QWorld
 
