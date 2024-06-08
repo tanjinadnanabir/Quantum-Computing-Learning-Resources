@@ -3,16 +3,16 @@ Quantum Computing - Quantum Information Science - Quantum Mechanics
 
 by Tanjin Adnan Abir, Quantumunity  
 
-Courses/ Programs / Summer Schools/ Challenges/ Hackathon  
+Courses - Programs - Summer Schools - Challenges - Hackathon
 
-IBM Quantum (Qiskit)  
+IBM Quantum (Qiskit)
 
-0. Qiskit Textbook and Learning https://qiskit.org/learn  
+0. Qiskit Textbook and Learning [https://qiskit.org/learn]
 
-1. Qiskit Global Summer School 2020: Introduction to Quantum Computing
-2. Qiskit Global Summer School 2021: Quantum Machine Learning 
-3. Qiskit Global Summer School 2022: Quantum Simulations
-4. Qiskit Global Summer School 2023: Theory to Implementations
+1. Qiskit Global Summer School 2020: Introduction to Quantum Computing [https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR]
+2. Qiskit Global Summer School 2021: Quantum Machine Learning [https://www.youtube.com/playlist?list=PLOFEBzvs-VvqJwybFxkTiDzhf5E11p8BI]
+3. Qiskit Global Summer School 2022: Quantum Simulations [https://www.youtube.com/playlist?list=PLOFEBzvs-Vvo5o97bYt8o1l8Ra1poMASQ]
+4. Qiskit Global Summer School 2023: Theory to Implementations [https://github.com/qiskit-community/qgss-2023]
 
 IBM Quantum Challenges
 
