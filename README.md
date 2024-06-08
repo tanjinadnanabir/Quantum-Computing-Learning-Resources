@@ -1,7 +1,7 @@
 # Quantum-Learning-Resources
 Quantum Computing - Quantum Information Science - Quantum Mechanics  
 
-by Tanjin Adnan Abir, Quantumunity  
+by Quantumunity  
 
 Courses - Programs - Summer Schools - Challenges - Hackathon
 
@@ -29,13 +29,13 @@ IBM Quantum Challenges
 
 QWorld
 
-1. QBronze - Intro to quantum computing and quantum programming
-2. QSilver - Intermediate quantum computing and programming focusing on complex numbers, QFT and Shor's Algorithm
-3. QNickel - Conventional Quantum Algorithms
-4. QMercury - Quantum Key Distribution (QKD)
-5. QZinc - Quantum Error Correction (QEC)
-6. QTitanium - Topological Quantum Computing (TQC) 
-7. QCobalt - Quantum Annealing
+1. QBronze - Intro to quantum computing and quantum programming [https://gitlab.com/qworld/bronze-qiskit]
+2. QSilver - Intermediate quantum computing and programming focusing on complex numbers, QFT and Shor's Algorithm [https://gitlab.com/qworld/silver]
+3. QNickel - Conventional Quantum Algorithms [https://gitlab.com/qworld/nickel]
+4. QMercury - Quantum Key Distribution (QKD) [https://gitlab.com/qworld/qeducation/educational-materials/self-study-modules/qkd]
+5. QZinc - Quantum Error Correction (QEC) [https://gitlab.com/qworld/qeducation/educational-materials/self-study-modules/qec]
+6. QTitanium - Topological Quantum Computing (TQC) [https://gitlab.com/qworld/qeducation/educational-materials/self-study-modules/tqc]
+7. QCobalt - Quantum Annealing [https://gitlab.com/qworld/qresearch/qintern2021/12_educational-material-development-for-quantum-annealing]
 8. QBook 101 - https://qworld.net/qbook101/
 
 Coursera
